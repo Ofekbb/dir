@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>דירות להשכרה | לוח מעקב</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <div class="header-logo">
+        <span class="logo-icon">🏠</span>
+        <span class="logo-text">דירות להשכרה</span>
+      </div>
+      <nav class="header-nav">
+        <button class="nav-btn active" data-view="listings">מודעות</button>
+        <button class="nav-btn" data-view="settings">הגדרות</button>
+      </nav>
+      <div class="header-stats">
+        <span id="apt-count" class="stat-badge">0 דירות</span>
+        <span id="last-updated" class="stat-updated"></span>
+      </div>
+    </div>
+  </header>
+
+  <main class="main">
+    <!-- Listings View -->
+    <div id="view-listings" class="view active">
+      <aside class="sidebar">
+        <div class="filter-group">
+          <label class="filter-label">שכונה</label>
+          <select id="filter-neighborhood" class="filter-select">
+            <option value="">הכל</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label class="filter-label">מחיר מקסימלי (₪)</label>
+          <div class="range-row">
+            <input type="range" id="filter-price" min="0" max="20000" step="500" value="20000" class="range-input" />
+            <span id="filter-price-val" class="range-val">הכל</span>
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <label class="filter-label">חדרים (מינימום)</label>
+          <div class="room-btns" id="filter-rooms">
+            <button class="room-btn active" data-val="">הכל</button>
+            <button class="room-btn" data-val="2">2+</button>
+            <button class="room-btn" data-val="3">3+</button>
+            <button class="room-btn" data-val="4">4+</button>
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <label class="filter-label">מאפיינים</label>
+          <div class="checkbox-group">
+            <label class="checkbox-label"><input type="checkbox" id="feat-balcony" /> מרפסת</label>
+            <label class="checkbox-label"><input type="checkbox" id="feat-parking" /> חניה</label>
+            <label class="checkbox-label"><input type="checkbox" id="feat-no-agent" /> ללא תיווך</label>
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <label class="filter-label">מיון</label>
+          <select id="sort-by" class="filter-select">
+            <option value="date_desc">חדש ראשון</option>
+            <option value="price_asc">מחיר עולה</option>
+            <option value="price_desc">מחיר יורד</option>
+            <option value="rooms_desc">חדרים (הרבה→מעט)</option>
+          </select>
+        </div>
+
+        <button id="btn-reset" class="btn-reset">איפוס פילטרים</button>
+      </aside>
+
+      <section class="listings-area">
+        <div id="no-results" class="no-results hidden">
+          <span>🔍</span>
+          <p>לא נמצאו דירות התואמות את הפילטרים</p>
+        </div>
+        <div id="cards-grid" class="cards-grid"></div>
+      </section>
+    </div>
+
+    <!-- Settings View -->
+    <div id="view-settings" class="view">
+      <div class="settings-container">
+        <h2 class="settings-title">הגדרות מערכת</h2>
+
+        <div class="settings-section">
+          <h3>מקורות סריקה</h3>
+          <div id="sources-list" class="sources-list"></div>
+        </div>
+
+        <div class="settings-section">
+          <h3>Telegram</h3>
+          <p class="settings-note">
+            ה-Bot Token וה-Chat ID מוגדרים כ-GitHub Actions Secrets בשם
+            <code>TELEGRAM_BOT_TOKEN</code> ו-<code>TELEGRAM_CHAT_ID</code>.
+          </p>
+          <div class="telegram-help">
+            <ol>
+              <li>צור בוט חדש דרך <a href="https://t.me/BotFather" target="_blank">@BotFather</a></li>
+              <li>שמור את ה-token שתקבל</li>
+              <li>שלח הודעה לבוט, ואז בקש <a href="https://api.telegram.org/bot{TOKEN}/getUpdates" target="_blank">getUpdates</a> למצוא את ה-chat_id שלך</li>
+              <li>הוסף את שניהם ב-GitHub → Settings → Secrets → Actions</li>
+            </ol>
+          </div>
+        </div>
+
+        <div class="settings-section">
+          <h3>תדירות סריקה</h3>
+          <p class="settings-note">הסריקה רצה דרך GitHub Actions Cron כל ~10 דקות.</p>
+          <p class="settings-note">קובץ ההגדרות: <code>config.yaml</code> בשורש הפרויקט.</p>
+        </div>
+
+        <div class="settings-section">
+          <h3>סטטיסטיקות</h3>
+          <div id="stats-table" class="stats-table"></div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

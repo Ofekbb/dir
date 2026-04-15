@@ -1,0 +1,13 @@
+sources:
+  - name: apartments
+    scraper: web
+    # url loaded from APT_URLS env var (GitHub secret, comma-separated)
+    enabled: true
+
+telegram:
+  enabled: true
+  # bot_token loaded from TELEGRAM_BOT_TOKEN env var
+  # chat_id loaded from TELEGRAM_CHAT_ID env var
+
+settings:
+  max_apartment_age_days: 30
