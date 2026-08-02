@@ -1,5 +1,62 @@
 [
   {
+    "id": "thefinder_215903",
+    "source": "thefinder",
+    "title": null,
+    "address": "בן יהודה, תל אביב יפו",
+    "price": 6000,
+    "rooms": null,
+    "size_sqm": 70.0,
+    "neighborhood": "הצפון הישן",
+    "balcony": null,
+    "parking": null,
+    "furnished": true,
+    "mamad": null,
+    "agent": true,
+    "image_url": null,
+    "listing_url": "https://www.yad2.co.il/realestate/item/okgth14r",
+    "first_seen": "2026-08-02T15:18:10.088131+00:00",
+    "last_seen": "2026-08-02T15:18:10.088131+00:00"
+  },
+  {
+    "id": "thefinder_215932",
+    "source": "thefinder",
+    "title": null,
+    "address": "אלכסנדר ינאי, צפון הישן, תל אביב",
+    "price": 70000,
+    "rooms": null,
+    "size_sqm": 75.0,
+    "neighborhood": "הצפון הישן",
+    "balcony": null,
+    "parking": null,
+    "furnished": true,
+    "mamad": false,
+    "agent": null,
+    "image_url": null,
+    "listing_url": "https://www.facebook.com/groups/287564448778602/posts/2175819409953087/",
+    "first_seen": "2026-08-02T15:18:09.225210+00:00",
+    "last_seen": "2026-08-02T15:18:09.225210+00:00"
+  },
+  {
+    "id": "thefinder_215935",
+    "source": "thefinder",
+    "title": null,
+    "address": "על מלצט בקרבת שדרות בן ציון ובורכוב, מרכז תל אביב",
+    "price": 79000,
+    "rooms": null,
+    "size_sqm": 50.0,
+    "neighborhood": "לב תל אביב",
+    "balcony": true,
+    "parking": null,
+    "furnished": null,
+    "mamad": null,
+    "agent": true,
+    "image_url": null,
+    "listing_url": "https://www.facebook.com/groups/305724686290054/posts/3220237021505458/",
+    "first_seen": "2026-08-02T15:18:08.321535+00:00",
+    "last_seen": "2026-08-02T15:18:08.321535+00:00"
+  },
+  {
     "id": "thefinder_215607",
     "source": "thefinder",
     "title": null,
@@ -16,7 +73,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/kjyqz81d",
     "first_seen": "2026-08-02T14:11:33.468074+00:00",
-    "last_seen": "2026-08-02T14:11:33.468074+00:00"
+    "last_seen": "2026-08-02T15:18:10.960834+00:00"
   },
   {
     "id": "thefinder_215611",
@@ -35,7 +92,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/jum0h5ui",
     "first_seen": "2026-08-02T14:11:29.482815+00:00",
-    "last_seen": "2026-08-02T14:11:29.482815+00:00"
+    "last_seen": "2026-08-02T15:18:10.960148+00:00"
   },
   {
     "id": "thefinder_215626",
@@ -54,7 +111,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/305724686290054/posts/3219999688195858/",
     "first_seen": "2026-08-02T14:11:28.494957+00:00",
-    "last_seen": "2026-08-02T14:11:28.494957+00:00"
+    "last_seen": "2026-08-02T15:18:10.959706+00:00"
   },
   {
     "id": "thefinder_215630",
@@ -73,7 +130,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/2541381749432833/posts/4514451878792467/",
     "first_seen": "2026-08-02T14:11:27.517067+00:00",
-    "last_seen": "2026-08-02T14:11:27.517067+00:00"
+    "last_seen": "2026-08-02T15:18:10.959151+00:00"
   },
   {
     "id": "thefinder_215671",
@@ -92,7 +149,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/131288860307566/posts/26712707168405707/",
     "first_seen": "2026-08-02T14:11:26.494880+00:00",
-    "last_seen": "2026-08-02T14:11:26.494880+00:00"
+    "last_seen": "2026-08-02T15:18:10.958519+00:00"
   },
   {
     "id": "thefinder_215700",
@@ -111,7 +168,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/xtqnohqt",
     "first_seen": "2026-08-02T14:11:25.515341+00:00",
-    "last_seen": "2026-08-02T14:11:25.515341+00:00"
+    "last_seen": "2026-08-02T15:18:10.957893+00:00"
   },
   {
     "id": "thefinder_215767",
@@ -130,7 +187,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/541egogm",
     "first_seen": "2026-08-02T14:11:24.522790+00:00",
-    "last_seen": "2026-08-02T14:11:24.522790+00:00"
+    "last_seen": "2026-08-02T15:18:10.957324+00:00"
   },
   {
     "id": "thefinder_215776",
@@ -149,7 +206,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/973843555992078/posts/27981189508164117/",
     "first_seen": "2026-08-02T14:11:23.546829+00:00",
-    "last_seen": "2026-08-02T14:11:23.546829+00:00"
+    "last_seen": "2026-08-02T15:18:10.956346+00:00"
   },
   {
     "id": "thefinder_215788",
@@ -168,7 +225,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/eankk0yp",
     "first_seen": "2026-08-02T14:11:22.530935+00:00",
-    "last_seen": "2026-08-02T14:11:22.530935+00:00"
+    "last_seen": "2026-08-02T15:18:10.955722+00:00"
   },
   {
     "id": "thefinder_215819",
@@ -187,7 +244,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/svufj05i",
     "first_seen": "2026-08-02T14:11:21.499177+00:00",
-    "last_seen": "2026-08-02T14:11:21.499177+00:00"
+    "last_seen": "2026-08-02T15:18:10.955128+00:00"
   },
   {
     "id": "thefinder_215832",
@@ -206,7 +263,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/912651298791978/posts/28017080267922381/",
     "first_seen": "2026-08-02T14:11:20.501064+00:00",
-    "last_seen": "2026-08-02T14:11:20.501064+00:00"
+    "last_seen": "2026-08-02T15:18:10.954478+00:00"
   },
   {
     "id": "thefinder_215835",
@@ -225,7 +282,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/287564448778602/posts/2175739623294399/",
     "first_seen": "2026-08-02T14:11:16.493780+00:00",
-    "last_seen": "2026-08-02T14:11:16.493780+00:00"
+    "last_seen": "2026-08-02T15:18:10.953922+00:00"
   },
   {
     "id": "thefinder_215870",
@@ -244,7 +301,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/291753646078748/permalink/1575773441010089/",
     "first_seen": "2026-08-02T14:11:15.528486+00:00",
-    "last_seen": "2026-08-02T14:11:15.528486+00:00"
+    "last_seen": "2026-08-02T15:18:10.953423+00:00"
   },
   {
     "id": "thefinder_215873",
@@ -263,7 +320,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/365588344194085/posts/2240961509990083/",
     "first_seen": "2026-08-02T14:11:14.548820+00:00",
-    "last_seen": "2026-08-02T14:11:14.548820+00:00"
+    "last_seen": "2026-08-02T15:18:10.952949+00:00"
   },
   {
     "id": "thefinder_215876",
@@ -282,7 +339,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/305724686290054/posts/3220178738177953/",
     "first_seen": "2026-08-02T14:11:13.541244+00:00",
-    "last_seen": "2026-08-02T14:11:13.541244+00:00"
+    "last_seen": "2026-08-02T15:18:10.952268+00:00"
   },
   {
     "id": "thefinder_215880",
@@ -301,7 +358,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/marketplace/item/1077948211337990",
     "first_seen": "2026-08-02T14:11:12.519353+00:00",
-    "last_seen": "2026-08-02T14:11:12.519353+00:00"
+    "last_seen": "2026-08-02T15:18:10.951470+00:00"
   },
   {
     "id": "thefinder_215898",
@@ -320,7 +377,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/h0f4dfep",
     "first_seen": "2026-08-02T14:11:11.507586+00:00",
-    "last_seen": "2026-08-02T14:11:11.507586+00:00"
+    "last_seen": "2026-08-02T15:18:10.950453+00:00"
   },
   {
     "id": "thefinder_215492",
@@ -339,7 +396,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/rnz58wtn",
     "first_seen": "2026-08-02T10:06:03.806970+00:00",
-    "last_seen": "2026-08-02T14:11:34.436032+00:00"
+    "last_seen": "2026-08-02T15:18:10.964385+00:00"
   },
   {
     "id": "thefinder_215517",
@@ -358,7 +415,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/126295760730491/posts/28910650575201626/",
     "first_seen": "2026-08-02T10:06:02.937329+00:00",
-    "last_seen": "2026-08-02T14:11:34.435442+00:00"
+    "last_seen": "2026-08-02T15:18:10.963559+00:00"
   },
   {
     "id": "thefinder_215519",
@@ -377,7 +434,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/305724686290054/posts/3219921634870330/",
     "first_seen": "2026-08-02T10:06:02.077221+00:00",
-    "last_seen": "2026-08-02T14:11:34.434822+00:00"
+    "last_seen": "2026-08-02T15:18:10.963103+00:00"
   },
   {
     "id": "thefinder_215523",
@@ -396,7 +453,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/1196843027043598/posts/27928324703468734/",
     "first_seen": "2026-08-02T10:06:01.245488+00:00",
-    "last_seen": "2026-08-02T14:11:34.433990+00:00"
+    "last_seen": "2026-08-02T15:18:10.962575+00:00"
   },
   {
     "id": "thefinder_215549",
@@ -415,7 +472,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/vwjk5q5w",
     "first_seen": "2026-08-02T10:06:00.418755+00:00",
-    "last_seen": "2026-08-02T14:11:34.433274+00:00"
+    "last_seen": "2026-08-02T15:18:10.961852+00:00"
   },
   {
     "id": "thefinder_215572",
@@ -434,7 +491,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/707867532704331/posts/3628410083983380/",
     "first_seen": "2026-08-02T10:05:59.510304+00:00",
-    "last_seen": "2026-08-02T14:11:34.432169+00:00"
+    "last_seen": "2026-08-02T15:18:10.961374+00:00"
   },
   {
     "id": "thefinder_215354",
@@ -453,7 +510,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/telavivrentals/posts/27709862192001719/",
     "first_seen": "2026-08-02T08:07:05.821774+00:00",
-    "last_seen": "2026-08-02T14:11:34.440840+00:00"
+    "last_seen": "2026-08-02T15:18:10.969274+00:00"
   },
   {
     "id": "thefinder_215370",
@@ -472,7 +529,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/ronkin/posts/3168648233329920/",
     "first_seen": "2026-08-02T08:07:04.997437+00:00",
-    "last_seen": "2026-08-02T14:11:34.440272+00:00"
+    "last_seen": "2026-08-02T15:18:10.968668+00:00"
   },
   {
     "id": "thefinder_215388",
@@ -491,7 +548,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/490361807749786/posts/27701440072881925/",
     "first_seen": "2026-08-02T08:07:01.099134+00:00",
-    "last_seen": "2026-08-02T14:11:34.439648+00:00"
+    "last_seen": "2026-08-02T15:18:10.968160+00:00"
   },
   {
     "id": "thefinder_215396",
@@ -510,7 +567,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/TelAvivApartments/posts/28934402162816859/",
     "first_seen": "2026-08-02T08:07:00.258183+00:00",
-    "last_seen": "2026-08-02T14:11:34.438774+00:00"
+    "last_seen": "2026-08-02T15:18:10.967232+00:00"
   },
   {
     "id": "thefinder_215416",
@@ -529,7 +586,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/jyk46s6s",
     "first_seen": "2026-08-02T08:06:59.417305+00:00",
-    "last_seen": "2026-08-02T14:11:34.438191+00:00"
+    "last_seen": "2026-08-02T15:18:10.966707+00:00"
   },
   {
     "id": "thefinder_215428",
@@ -548,7 +605,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/1445210362209803/posts/28077061628597981/",
     "first_seen": "2026-08-02T08:06:58.581051+00:00",
-    "last_seen": "2026-08-02T14:11:34.437626+00:00"
+    "last_seen": "2026-08-02T15:18:10.966123+00:00"
   },
   {
     "id": "thefinder_215442",
@@ -567,7 +624,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/305724686290054/posts/3219878581541302/",
     "first_seen": "2026-08-02T08:06:57.706440+00:00",
-    "last_seen": "2026-08-02T14:11:34.437150+00:00"
+    "last_seen": "2026-08-02T15:18:10.965439+00:00"
   },
   {
     "id": "thefinder_215460",
@@ -586,7 +643,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/287564448778602/posts/2175534979981530/",
     "first_seen": "2026-08-02T08:06:56.868466+00:00",
-    "last_seen": "2026-08-02T14:11:34.436652+00:00"
+    "last_seen": "2026-08-02T15:18:10.964926+00:00"
   },
   {
     "id": "thefinder_215229",
@@ -605,7 +662,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/305724686290054/posts/3219318631597297/",
     "first_seen": "2026-08-01T19:34:46.561618+00:00",
-    "last_seen": "2026-08-02T14:11:34.441377+00:00"
+    "last_seen": "2026-08-02T15:18:10.969907+00:00"
   },
   {
     "id": "thefinder_215212",
@@ -624,7 +681,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/1dz5bgx2",
     "first_seen": "2026-08-01T18:14:46.142186+00:00",
-    "last_seen": "2026-08-02T14:11:34.442432+00:00"
+    "last_seen": "2026-08-02T15:18:10.971078+00:00"
   },
   {
     "id": "thefinder_215220",
@@ -643,7 +700,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/458499457501175/posts/37999550576302592/",
     "first_seen": "2026-08-01T18:14:45.137095+00:00",
-    "last_seen": "2026-08-02T14:11:34.441972+00:00"
+    "last_seen": "2026-08-02T15:18:10.970449+00:00"
   },
   {
     "id": "thefinder_215165",
@@ -662,7 +719,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/telavivrentals/posts/27704191269235478/",
     "first_seen": "2026-08-01T17:17:22.337702+00:00",
-    "last_seen": "2026-08-02T14:11:34.442942+00:00"
+    "last_seen": "2026-08-02T15:18:10.972003+00:00"
   },
   {
     "id": "thefinder_215160",
@@ -681,7 +738,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/131288860307566/posts/26704754609200963/",
     "first_seen": "2026-08-01T16:16:42.746936+00:00",
-    "last_seen": "2026-08-02T14:11:34.443467+00:00"
+    "last_seen": "2026-08-02T15:18:10.972909+00:00"
   },
   {
     "id": "thefinder_215124",
@@ -700,7 +757,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/gmkuvv5p",
     "first_seen": "2026-08-01T14:09:09.956391+00:00",
-    "last_seen": "2026-08-02T14:11:34.444120+00:00"
+    "last_seen": "2026-08-02T15:18:10.973455+00:00"
   },
   {
     "id": "thefinder_215081",
@@ -719,7 +776,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/telavivrentals/posts/27701589616162310/",
     "first_seen": "2026-08-01T12:35:02.656063+00:00",
-    "last_seen": "2026-08-02T14:11:34.445115+00:00"
+    "last_seen": "2026-08-02T15:18:10.974870+00:00"
   },
   {
     "id": "thefinder_215083",
@@ -738,7 +795,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/287564448778602/posts/2174790716722623/",
     "first_seen": "2026-08-01T12:35:01.594115+00:00",
-    "last_seen": "2026-08-02T14:11:34.444615+00:00"
+    "last_seen": "2026-08-02T15:18:10.973908+00:00"
   },
   {
     "id": "thefinder_215059",
@@ -757,7 +814,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/191591524188001/permalink/38280072078246469/?sale_post_id=38280072078246469",
     "first_seen": "2026-08-01T11:32:58.226500+00:00",
-    "last_seen": "2026-08-02T14:11:34.446685+00:00"
+    "last_seen": "2026-08-02T15:18:10.976355+00:00"
   },
   {
     "id": "thefinder_215065",
@@ -776,7 +833,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/s848ycng",
     "first_seen": "2026-08-01T11:32:57.320089+00:00",
-    "last_seen": "2026-08-02T14:11:34.446214+00:00"
+    "last_seen": "2026-08-02T15:18:10.975844+00:00"
   },
   {
     "id": "thefinder_215067",
@@ -795,7 +852,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/marketplace/item/2449295605562776",
     "first_seen": "2026-08-01T11:32:56.385855+00:00",
-    "last_seen": "2026-08-02T14:11:34.445707+00:00"
+    "last_seen": "2026-08-02T15:18:10.975356+00:00"
   },
   {
     "id": "thefinder_215030",
@@ -814,7 +871,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/457465901082882/posts/3593434464152661/",
     "first_seen": "2026-08-01T10:07:34.472407+00:00",
-    "last_seen": "2026-08-02T14:11:34.447314+00:00"
+    "last_seen": "2026-08-02T15:18:10.976817+00:00"
   },
   {
     "id": "thefinder_214964",
@@ -833,7 +890,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/305724686290054/posts/3218627711666389/",
     "first_seen": "2026-08-01T08:05:26.712285+00:00",
-    "last_seen": "2026-08-02T14:11:34.448932+00:00"
+    "last_seen": "2026-08-02T15:18:10.978388+00:00"
   },
   {
     "id": "thefinder_214998",
@@ -852,7 +909,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/333022240594651/permalink/2140468913183299/",
     "first_seen": "2026-08-01T08:05:25.810638+00:00",
-    "last_seen": "2026-08-02T14:11:34.448383+00:00"
+    "last_seen": "2026-08-02T15:18:10.977931+00:00"
   },
   {
     "id": "thefinder_215021",
@@ -871,7 +928,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/293855971167565/posts/2121098111776666/",
     "first_seen": "2026-08-01T08:05:24.890994+00:00",
-    "last_seen": "2026-08-02T14:11:34.447883+00:00"
+    "last_seen": "2026-08-02T15:18:10.977332+00:00"
   },
   {
     "id": "thefinder_214933",
@@ -890,7 +947,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/pivp3m7e",
     "first_seen": "2026-07-31T18:39:39.392876+00:00",
-    "last_seen": "2026-08-02T14:11:34.449371+00:00"
+    "last_seen": "2026-08-02T15:18:10.978824+00:00"
   },
   {
     "id": "thefinder_214891",
@@ -909,7 +966,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/1445210362209803/posts/28058344210469723/",
     "first_seen": "2026-07-31T17:03:12.185525+00:00",
-    "last_seen": "2026-08-02T14:11:34.449810+00:00"
+    "last_seen": "2026-08-02T15:18:10.979261+00:00"
   },
   {
     "id": "thefinder_214820",
@@ -928,7 +985,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/marketplace/item/1771445840546739",
     "first_seen": "2026-07-31T15:26:37.654306+00:00",
-    "last_seen": "2026-08-02T14:11:34.451501+00:00"
+    "last_seen": "2026-08-02T15:18:10.980874+00:00"
   },
   {
     "id": "thefinder_214855",
@@ -947,7 +1004,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/ou3hqpd0",
     "first_seen": "2026-07-31T15:26:36.531240+00:00",
-    "last_seen": "2026-08-02T14:11:34.451016+00:00"
+    "last_seen": "2026-08-02T15:18:10.980299+00:00"
   },
   {
     "id": "thefinder_214875",
@@ -966,7 +1023,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/131288860307566/posts/26692489063760851/",
     "first_seen": "2026-07-31T15:26:35.337939+00:00",
-    "last_seen": "2026-08-02T14:11:34.450459+00:00"
+    "last_seen": "2026-08-02T15:18:10.979821+00:00"
   },
   {
     "id": "thefinder_214795",
@@ -985,7 +1042,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/291753646078748/posts/1573952634525503/",
     "first_seen": "2026-07-31T13:05:22.501058+00:00",
-    "last_seen": "2026-08-02T14:11:34.453199+00:00"
+    "last_seen": "2026-08-02T15:18:10.982222+00:00"
   },
   {
     "id": "thefinder_214798",
@@ -1004,7 +1061,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/287564448778602/posts/2173932613475100/",
     "first_seen": "2026-07-31T13:05:21.470013+00:00",
-    "last_seen": "2026-08-02T14:11:34.452615+00:00"
+    "last_seen": "2026-08-02T15:18:10.981798+00:00"
   },
   {
     "id": "thefinder_214812",
@@ -1023,7 +1080,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/ronkin/posts/3166900056838071/",
     "first_seen": "2026-07-31T13:05:20.338120+00:00",
-    "last_seen": "2026-08-02T14:11:34.452005+00:00"
+    "last_seen": "2026-08-02T15:18:10.981368+00:00"
   },
   {
     "id": "thefinder_214707",
@@ -1042,7 +1099,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/305724686290054/posts/3217759778419849/",
     "first_seen": "2026-07-31T11:09:25.455452+00:00",
-    "last_seen": "2026-08-02T14:11:34.455746+00:00"
+    "last_seen": "2026-08-02T15:18:10.984276+00:00"
   },
   {
     "id": "thefinder_214709",
@@ -1061,7 +1118,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/marketplace/item/1728209101758739",
     "first_seen": "2026-07-31T11:09:24.590467+00:00",
-    "last_seen": "2026-08-02T14:11:34.454749+00:00"
+    "last_seen": "2026-08-02T15:18:10.983676+00:00"
   },
   {
     "id": "thefinder_214733",
@@ -1080,7 +1137,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/457465901082882/posts/3592409474255160/",
     "first_seen": "2026-07-31T11:09:23.620973+00:00",
-    "last_seen": "2026-08-02T14:11:34.454277+00:00"
+    "last_seen": "2026-08-02T15:18:10.983174+00:00"
   },
   {
     "id": "thefinder_214747",
@@ -1099,7 +1156,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/izr166lr",
     "first_seen": "2026-07-31T11:09:22.607364+00:00",
-    "last_seen": "2026-08-02T14:11:34.453706+00:00"
+    "last_seen": "2026-08-02T15:18:10.982719+00:00"
   },
   {
     "id": "thefinder_214578",
@@ -1118,7 +1175,7 @@
     "image_url": null,
     "listing_url": "https://www.madlan.co.il/listings/C0IcCh5Dp6Z",
     "first_seen": "2026-07-31T08:36:01.420526+00:00",
-    "last_seen": "2026-08-02T14:11:34.457451+00:00"
+    "last_seen": "2026-08-02T15:18:10.986024+00:00"
   },
   {
     "id": "thefinder_214635",
@@ -1137,7 +1194,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/iaodxmpq",
     "first_seen": "2026-07-31T08:36:00.406984+00:00",
-    "last_seen": "2026-08-02T14:11:34.456961+00:00"
+    "last_seen": "2026-08-02T15:18:10.985391+00:00"
   },
   {
     "id": "thefinder_214637",
@@ -1156,7 +1213,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/si7un3dw",
     "first_seen": "2026-07-31T08:35:59.018427+00:00",
-    "last_seen": "2026-08-02T14:11:34.456381+00:00"
+    "last_seen": "2026-08-02T15:18:10.984851+00:00"
   },
   {
     "id": "thefinder_214477",
@@ -1175,7 +1232,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/telavivrentals/posts/27680737711580834/",
     "first_seen": "2026-07-30T19:01:07.061314+00:00",
-    "last_seen": "2026-08-02T14:11:34.458564+00:00"
+    "last_seen": "2026-08-02T15:18:10.986990+00:00"
   },
   {
     "id": "thefinder_214487",
@@ -1194,7 +1251,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/telavivrentals/posts/27680881928233079/",
     "first_seen": "2026-07-30T19:01:05.481822+00:00",
-    "last_seen": "2026-08-02T14:11:34.458055+00:00"
+    "last_seen": "2026-08-02T15:18:10.986532+00:00"
   },
   {
     "id": "thefinder_214368",
@@ -1213,7 +1270,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/lpxgf9xr",
     "first_seen": "2026-07-30T17:44:47.344963+00:00",
-    "last_seen": "2026-08-02T14:11:34.460434+00:00"
+    "last_seen": "2026-08-02T15:18:10.989111+00:00"
   },
   {
     "id": "thefinder_214404",
@@ -1232,7 +1289,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/telavivrentals/posts/27679458451708760/",
     "first_seen": "2026-07-30T17:44:46.211300+00:00",
-    "last_seen": "2026-08-02T14:11:34.459999+00:00"
+    "last_seen": "2026-08-02T15:18:10.988609+00:00"
   },
   {
     "id": "thefinder_214424",
@@ -1251,7 +1308,7 @@
     "image_url": null,
     "listing_url": "https://www.madlan.co.il/listings/ZogSgdIYOCQ",
     "first_seen": "2026-07-30T17:44:45.355811+00:00",
-    "last_seen": "2026-08-02T14:11:34.459551+00:00"
+    "last_seen": "2026-08-02T15:18:10.988137+00:00"
   },
   {
     "id": "thefinder_214463",
@@ -1270,7 +1327,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/305724686290054/posts/3217040965158397/",
     "first_seen": "2026-07-30T17:44:44.482601+00:00",
-    "last_seen": "2026-08-02T14:11:34.459040+00:00"
+    "last_seen": "2026-08-02T15:18:10.987463+00:00"
   },
   {
     "id": "thefinder_214270",
@@ -1289,7 +1346,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/rusylc9b",
     "first_seen": "2026-07-30T14:31:36.356431+00:00",
-    "last_seen": "2026-08-02T14:11:34.463691+00:00"
+    "last_seen": "2026-08-02T15:18:10.992500+00:00"
   },
   {
     "id": "thefinder_214285",
@@ -1308,7 +1365,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/131288860307566/posts/26679160621760362/",
     "first_seen": "2026-07-30T14:31:35.301433+00:00",
-    "last_seen": "2026-08-02T14:11:34.463180+00:00"
+    "last_seen": "2026-08-02T15:18:10.991801+00:00"
   },
   {
     "id": "thefinder_214295",
@@ -1327,7 +1384,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/telavivrentals/posts/27677973901857215/",
     "first_seen": "2026-07-30T14:31:34.229613+00:00",
-    "last_seen": "2026-08-02T14:11:34.462635+00:00"
+    "last_seen": "2026-08-02T15:18:10.991323+00:00"
   },
   {
     "id": "thefinder_214325",
@@ -1346,7 +1403,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/tlvapartment/posts/3962819517187424/",
     "first_seen": "2026-07-30T14:31:33.073191+00:00",
-    "last_seen": "2026-08-02T14:11:34.462115+00:00"
+    "last_seen": "2026-08-02T15:18:10.990730+00:00"
   },
   {
     "id": "thefinder_214331",
@@ -1365,7 +1422,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/ltrdcvpj",
     "first_seen": "2026-07-30T14:31:31.932478+00:00",
-    "last_seen": "2026-08-02T14:11:34.461552+00:00"
+    "last_seen": "2026-08-02T15:18:10.990046+00:00"
   },
   {
     "id": "thefinder_214332",
@@ -1384,7 +1441,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/nhwhmlzc",
     "first_seen": "2026-07-30T14:31:30.822048+00:00",
-    "last_seen": "2026-08-02T14:11:34.460872+00:00"
+    "last_seen": "2026-08-02T15:18:10.989604+00:00"
   },
   {
     "id": "thefinder_214185",
@@ -1403,7 +1460,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/188430365379/posts/10164789739630380/",
     "first_seen": "2026-07-30T12:13:57.751536+00:00",
-    "last_seen": "2026-08-02T14:11:34.464720+00:00"
+    "last_seen": "2026-08-02T15:18:10.993481+00:00"
   },
   {
     "id": "thefinder_214237",
@@ -1422,7 +1479,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/TelAvivApartments/posts/28900414416215634/",
     "first_seen": "2026-07-30T12:13:56.664074+00:00",
-    "last_seen": "2026-08-02T14:11:34.464180+00:00"
+    "last_seen": "2026-08-02T15:18:10.993045+00:00"
   },
   {
     "id": "thefinder_214019",
@@ -1441,7 +1498,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/telavivrentals/posts/27675627115425227/",
     "first_seen": "2026-07-30T10:33:51.345264+00:00",
-    "last_seen": "2026-08-02T14:11:34.468744+00:00"
+    "last_seen": "2026-08-02T15:18:10.997950+00:00"
   },
   {
     "id": "thefinder_214024",
@@ -1460,7 +1517,7 @@
     "image_url": null,
     "listing_url": "https://web.facebook.com/groups/457465901082882/posts/3591084114387696/",
     "first_seen": "2026-07-30T10:33:50.213207+00:00",
-    "last_seen": "2026-08-02T14:11:34.468268+00:00"
+    "last_seen": "2026-08-02T15:18:10.997428+00:00"
   },
   {
     "id": "thefinder_214055",
@@ -1479,7 +1536,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/1445210362209803/posts/28042305878740223/",
     "first_seen": "2026-07-30T10:33:49.122098+00:00",
-    "last_seen": "2026-08-02T14:11:34.467785+00:00"
+    "last_seen": "2026-08-02T15:18:10.996887+00:00"
   },
   {
     "id": "thefinder_214110",
@@ -1498,7 +1555,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/telavivrentals/posts/27676256515362287/",
     "first_seen": "2026-07-30T10:33:48.110460+00:00",
-    "last_seen": "2026-08-02T14:11:34.467224+00:00"
+    "last_seen": "2026-08-02T15:18:10.996339+00:00"
   },
   {
     "id": "thefinder_214122",
@@ -1517,7 +1574,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/marketplace/item/3371700162990211",
     "first_seen": "2026-07-30T10:33:47.054103+00:00",
-    "last_seen": "2026-08-02T14:11:34.466696+00:00"
+    "last_seen": "2026-08-02T15:18:10.995738+00:00"
   },
   {
     "id": "thefinder_214130",
@@ -1536,7 +1593,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/48djtyix",
     "first_seen": "2026-07-30T10:33:45.992145+00:00",
-    "last_seen": "2026-08-02T14:11:34.466202+00:00"
+    "last_seen": "2026-08-02T15:18:10.995164+00:00"
   },
   {
     "id": "thefinder_214146",
@@ -1555,7 +1612,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/1196843027043598/posts/27959456780355526/",
     "first_seen": "2026-07-30T10:33:44.940028+00:00",
-    "last_seen": "2026-08-02T14:11:34.465674+00:00"
+    "last_seen": "2026-08-02T15:18:10.994663+00:00"
   },
   {
     "id": "thefinder_214152",
@@ -1574,7 +1631,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/telavivrentals/posts/27676528868668385/",
     "first_seen": "2026-07-30T10:33:43.811731+00:00",
-    "last_seen": "2026-08-02T14:11:34.465205+00:00"
+    "last_seen": "2026-08-02T15:18:10.993917+00:00"
   },
   {
     "id": "thefinder_213868",
@@ -1593,7 +1650,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/uayujntw",
     "first_seen": "2026-07-30T08:09:17.339548+00:00",
-    "last_seen": "2026-08-02T14:11:34.479165+00:00"
+    "last_seen": "2026-08-02T15:18:11.009227+00:00"
   },
   {
     "id": "thefinder_213886",
@@ -1612,7 +1669,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/287564448778602/posts/2172770610257967/",
     "first_seen": "2026-07-30T08:09:16.262783+00:00",
-    "last_seen": "2026-08-02T14:11:34.478692+00:00"
+    "last_seen": "2026-08-02T15:18:11.003805+00:00"
   },
   {
     "id": "thefinder_213899",
@@ -1631,7 +1688,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/707867532704331/posts/3624796437678078/",
     "first_seen": "2026-07-30T08:09:12.265144+00:00",
-    "last_seen": "2026-08-02T14:11:34.478247+00:00"
+    "last_seen": "2026-08-02T15:18:11.003114+00:00"
   },
   {
     "id": "thefinder_213919",
@@ -1650,7 +1707,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/marketplace/item/1331613995807728",
     "first_seen": "2026-07-30T08:09:11.280406+00:00",
-    "last_seen": "2026-08-02T14:11:34.477735+00:00"
+    "last_seen": "2026-08-02T15:18:11.002718+00:00"
   },
   {
     "id": "thefinder_213924",
@@ -1669,7 +1726,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/marketplace/item/1015612234635735",
     "first_seen": "2026-07-30T08:09:10.282492+00:00",
-    "last_seen": "2026-08-02T14:11:34.477261+00:00"
+    "last_seen": "2026-08-02T15:18:11.002284+00:00"
   },
   {
     "id": "thefinder_213949",
@@ -1688,7 +1745,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/b9dc9rxq",
     "first_seen": "2026-07-30T08:09:09.315560+00:00",
-    "last_seen": "2026-08-02T14:11:34.476749+00:00"
+    "last_seen": "2026-08-02T15:18:11.001898+00:00"
   },
   {
     "id": "thefinder_213951",
@@ -1707,7 +1764,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/ronkin/posts/3165569570304453/",
     "first_seen": "2026-07-30T08:09:08.299068+00:00",
-    "last_seen": "2026-08-02T14:11:34.476166+00:00"
+    "last_seen": "2026-08-02T15:18:11.001509+00:00"
   },
   {
     "id": "thefinder_213961",
@@ -1726,7 +1783,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/TelAvivApartments/posts/28898273196429756/",
     "first_seen": "2026-07-30T08:09:04.319139+00:00",
-    "last_seen": "2026-08-02T14:11:34.475674+00:00"
+    "last_seen": "2026-08-02T15:18:11.001027+00:00"
   },
   {
     "id": "thefinder_213985",
@@ -1745,7 +1802,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/1458853481020151/posts/4430151340557002/",
     "first_seen": "2026-07-30T08:09:03.337134+00:00",
-    "last_seen": "2026-08-02T14:11:34.475084+00:00"
+    "last_seen": "2026-08-02T15:18:11.000570+00:00"
   },
   {
     "id": "thefinder_213986",
@@ -1764,7 +1821,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/9jk1eat4",
     "first_seen": "2026-07-30T08:09:02.319347+00:00",
-    "last_seen": "2026-08-02T14:11:34.473857+00:00"
+    "last_seen": "2026-08-02T15:18:11.000126+00:00"
   },
   {
     "id": "thefinder_213987",
@@ -1783,7 +1840,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/4y2v2nhq",
     "first_seen": "2026-07-30T08:09:01.321164+00:00",
-    "last_seen": "2026-08-02T14:11:34.470373+00:00"
+    "last_seen": "2026-08-02T15:18:10.999573+00:00"
   },
   {
     "id": "thefinder_213993",
@@ -1802,7 +1859,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/287564448778602/posts/2172888930246135/",
     "first_seen": "2026-07-30T08:09:00.317164+00:00",
-    "last_seen": "2026-08-02T14:11:34.469808+00:00"
+    "last_seen": "2026-08-02T15:18:10.998990+00:00"
   },
   {
     "id": "thefinder_213997",
@@ -1821,7 +1878,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/1445210362209803/posts/28041792458791565/",
     "first_seen": "2026-07-30T08:08:59.107570+00:00",
-    "last_seen": "2026-08-02T14:11:34.469182+00:00"
+    "last_seen": "2026-08-02T15:18:10.998474+00:00"
   },
   {
     "id": "thefinder_213837",
@@ -1840,7 +1897,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/telavivrentals/posts/27669761052678500/",
     "first_seen": "2026-07-29T20:01:41.968200+00:00",
-    "last_seen": "2026-08-02T14:11:34.479656+00:00"
+    "last_seen": "2026-08-02T15:18:11.009759+00:00"
   },
   {
     "id": "thefinder_213797",
