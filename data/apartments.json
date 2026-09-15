@@ -1,5 +1,461 @@
 [
   {
+    "id": "thefinder_241690",
+    "source": "thefinder",
+    "title": null,
+    "address": "הדסה 13 מול גן העיר",
+    "price": 67000,
+    "rooms": null,
+    "size_sqm": 55.0,
+    "neighborhood": "הצפון הישן",
+    "balcony": null,
+    "parking": null,
+    "furnished": null,
+    "mamad": null,
+    "agent": null,
+    "image_url": null,
+    "listing_url": "https://www.facebook.com/groups/tel.aviv.dirot/posts/27223428357333302/",
+    "first_seen": "2026-09-15T19:05:46.279751+00:00",
+    "last_seen": "2026-09-15T19:05:46.279751+00:00"
+  },
+  {
+    "id": "thefinder_241695",
+    "source": "thefinder",
+    "title": null,
+    "address": "רחוב ברזילי, תל אביב",
+    "price": 70000,
+    "rooms": null,
+    "size_sqm": 60.0,
+    "neighborhood": "לב תל אביב",
+    "balcony": null,
+    "parking": null,
+    "furnished": false,
+    "mamad": null,
+    "agent": true,
+    "image_url": null,
+    "listing_url": "https://www.facebook.com/groups/563881507140230/posts/3193019167559771/",
+    "first_seen": "2026-09-15T19:05:45.483881+00:00",
+    "last_seen": "2026-09-15T19:05:45.483881+00:00"
+  },
+  {
+    "id": "thefinder_241716",
+    "source": "thefinder",
+    "title": null,
+    "address": "חובבי ציון, תל אביב יפו",
+    "price": 7300,
+    "rooms": null,
+    "size_sqm": 52.0,
+    "neighborhood": "הצפון הישן",
+    "balcony": null,
+    "parking": null,
+    "furnished": null,
+    "mamad": null,
+    "agent": true,
+    "image_url": null,
+    "listing_url": "https://www.yad2.co.il/realestate/item/18v1unz7",
+    "first_seen": "2026-09-15T19:05:44.673611+00:00",
+    "last_seen": "2026-09-15T19:05:44.673611+00:00"
+  },
+  {
+    "id": "thefinder_241772",
+    "source": "thefinder",
+    "title": null,
+    "address": "על פארק המסילה, כ-2 דקות הליכה מרוטשילד",
+    "price": 69000,
+    "rooms": null,
+    "size_sqm": 0.0,
+    "neighborhood": "נווה צדק",
+    "balcony": null,
+    "parking": null,
+    "furnished": true,
+    "mamad": null,
+    "agent": false,
+    "image_url": null,
+    "listing_url": "https://www.facebook.com/groups/707867532704331/posts/3678999542257767/",
+    "first_seen": "2026-09-15T19:05:43.861397+00:00",
+    "last_seen": "2026-09-15T19:05:43.861397+00:00"
+  },
+  {
+    "id": "thefinder_241775",
+    "source": "thefinder",
+    "title": null,
+    "address": "אבן גבירול 117, תל אביב יפו",
+    "price": 8200,
+    "rooms": null,
+    "size_sqm": 57.0,
+    "neighborhood": "הצפון הישן",
+    "balcony": null,
+    "parking": null,
+    "furnished": true,
+    "mamad": null,
+    "agent": false,
+    "image_url": null,
+    "listing_url": "https://www.yad2.co.il/realestate/item/d8dxscxu",
+    "first_seen": "2026-09-15T19:05:43.026154+00:00",
+    "last_seen": "2026-09-15T19:05:43.026154+00:00"
+  },
+  {
+    "id": "thefinder_241834",
+    "source": "thefinder",
+    "title": null,
+    "address": "not mentioned",
+    "price": 85000,
+    "rooms": null,
+    "size_sqm": 45.0,
+    "neighborhood": "כרם התימנים",
+    "balcony": null,
+    "parking": null,
+    "furnished": true,
+    "mamad": true,
+    "agent": true,
+    "image_url": null,
+    "listing_url": "https://www.facebook.com/groups/1432828703704444/posts/4609715532682396/",
+    "first_seen": "2026-09-15T19:05:42.197595+00:00",
+    "last_seen": "2026-09-15T19:05:42.197595+00:00"
+  },
+  {
+    "id": "thefinder_241836",
+    "source": "thefinder",
+    "title": null,
+    "address": "יורדי הסירה 8, תל אביב",
+    "price": 83000,
+    "rooms": null,
+    "size_sqm": 65.0,
+    "neighborhood": "הצפון הישן",
+    "balcony": true,
+    "parking": true,
+    "furnished": null,
+    "mamad": null,
+    "agent": true,
+    "image_url": null,
+    "listing_url": "https://www.facebook.com/groups/973843555992078/posts/28550211427928586/",
+    "first_seen": "2026-09-15T19:05:41.370618+00:00",
+    "last_seen": "2026-09-15T19:05:41.370618+00:00"
+  },
+  {
+    "id": "thefinder_241837",
+    "source": "thefinder",
+    "title": null,
+    "address": "שי עגנון 24, תל אביב",
+    "price": 70000,
+    "rooms": null,
+    "size_sqm": 0.0,
+    "neighborhood": "הצפון הישן",
+    "balcony": true,
+    "parking": null,
+    "furnished": null,
+    "mamad": null,
+    "agent": false,
+    "image_url": null,
+    "listing_url": "https://www.facebook.com/groups/287564448778602/posts/2214641482737546/",
+    "first_seen": "2026-09-15T19:05:40.529070+00:00",
+    "last_seen": "2026-09-15T19:05:40.529070+00:00"
+  },
+  {
+    "id": "thefinder_241840",
+    "source": "thefinder",
+    "title": null,
+    "address": "שדרות רוטשילד 109, תל אביב יפו",
+    "price": 8000,
+    "rooms": null,
+    "size_sqm": 65.0,
+    "neighborhood": "לב תל אביב",
+    "balcony": null,
+    "parking": null,
+    "furnished": null,
+    "mamad": null,
+    "agent": false,
+    "image_url": null,
+    "listing_url": "https://www.yad2.co.il/realestate/item/crxv56mm",
+    "first_seen": "2026-09-15T19:05:36.682494+00:00",
+    "last_seen": "2026-09-15T19:05:36.682494+00:00"
+  },
+  {
+    "id": "thefinder_241844",
+    "source": "thefinder",
+    "title": null,
+    "address": "הקליר 19, תל אביב יפו",
+    "price": 7500,
+    "rooms": null,
+    "size_sqm": 70.0,
+    "neighborhood": "הצפון הישן",
+    "balcony": true,
+    "parking": null,
+    "furnished": null,
+    "mamad": null,
+    "agent": false,
+    "image_url": null,
+    "listing_url": "https://www.yad2.co.il/realestate/item/s5k1x5ar",
+    "first_seen": "2026-09-15T19:05:35.803272+00:00",
+    "last_seen": "2026-09-15T19:05:35.803272+00:00"
+  },
+  {
+    "id": "thefinder_241867",
+    "source": "thefinder",
+    "title": null,
+    "address": "כ\"ג יורדי הסירה 8, תל אביב יפו",
+    "price": 8300,
+    "rooms": null,
+    "size_sqm": 65.0,
+    "neighborhood": "הצפון הישן",
+    "balcony": true,
+    "parking": true,
+    "furnished": null,
+    "mamad": null,
+    "agent": true,
+    "image_url": null,
+    "listing_url": "https://www.yad2.co.il/realestate/item/3wtvd0k0",
+    "first_seen": "2026-09-15T19:05:34.964746+00:00",
+    "last_seen": "2026-09-15T19:05:34.964746+00:00"
+  },
+  {
+    "id": "thefinder_241900",
+    "source": "thefinder",
+    "title": null,
+    "address": "דיזנגוף פינת גורדון",
+    "price": 60000,
+    "rooms": null,
+    "size_sqm": 60.0,
+    "neighborhood": "הצפון הישן",
+    "balcony": true,
+    "parking": null,
+    "furnished": true,
+    "mamad": null,
+    "agent": false,
+    "image_url": null,
+    "listing_url": "https://www.facebook.com/groups/456809784649973/posts/3058656521131940/",
+    "first_seen": "2026-09-15T19:05:34.139043+00:00",
+    "last_seen": "2026-09-15T19:05:34.139043+00:00"
+  },
+  {
+    "id": "thefinder_241902",
+    "source": "thefinder",
+    "title": null,
+    "address": "מוהליבר, תל אביב יפו",
+    "price": 6000,
+    "rooms": null,
+    "size_sqm": 35.0,
+    "neighborhood": "נווה צדק",
+    "balcony": null,
+    "parking": null,
+    "furnished": null,
+    "mamad": null,
+    "agent": true,
+    "image_url": null,
+    "listing_url": "https://www.yad2.co.il/realestate/item/ctbi0wwd",
+    "first_seen": "2026-09-15T19:05:33.299572+00:00",
+    "last_seen": "2026-09-15T19:05:33.299572+00:00"
+  },
+  {
+    "id": "thefinder_241920",
+    "source": "thefinder",
+    "title": null,
+    "address": "שד' נורדאו, צפון הישן, ליד כיכר באזל",
+    "price": 72000,
+    "rooms": null,
+    "size_sqm": 0.0,
+    "neighborhood": "הצפון הישן",
+    "balcony": true,
+    "parking": null,
+    "furnished": null,
+    "mamad": null,
+    "agent": false,
+    "image_url": null,
+    "listing_url": "https://www.facebook.com/groups/2541381749432833/posts/4560904007480587/",
+    "first_seen": "2026-09-15T19:05:29.445667+00:00",
+    "last_seen": "2026-09-15T19:05:29.445667+00:00"
+  },
+  {
+    "id": "thefinder_241936",
+    "source": "thefinder",
+    "title": null,
+    "address": "קרליבך פינת קריית ספר, מול הסינמטק",
+    "price": 82000,
+    "rooms": null,
+    "size_sqm": 65.0,
+    "neighborhood": "לב תל אביב",
+    "balcony": null,
+    "parking": null,
+    "furnished": true,
+    "mamad": null,
+    "agent": false,
+    "image_url": null,
+    "listing_url": "https://www.facebook.com/groups/305724686290054/posts/3269276073268219/",
+    "first_seen": "2026-09-15T19:05:28.620412+00:00",
+    "last_seen": "2026-09-15T19:05:28.620412+00:00"
+  },
+  {
+    "id": "thefinder_241951",
+    "source": "thefinder",
+    "title": null,
+    "address": ", תל אביב יפו",
+    "price": 6800,
+    "rooms": null,
+    "size_sqm": 65.0,
+    "neighborhood": "לב תל אביב",
+    "balcony": null,
+    "parking": null,
+    "furnished": null,
+    "mamad": null,
+    "agent": true,
+    "image_url": null,
+    "listing_url": "https://www.yad2.co.il/realestate/item/7ltgtdp0",
+    "first_seen": "2026-09-15T19:05:27.784471+00:00",
+    "last_seen": "2026-09-15T19:05:27.784471+00:00"
+  },
+  {
+    "id": "thefinder_241965",
+    "source": "thefinder",
+    "title": null,
+    "address": "רחוב לוריא",
+    "price": 62000,
+    "rooms": null,
+    "size_sqm": 0.0,
+    "neighborhood": "הצפון הישן",
+    "balcony": null,
+    "parking": true,
+    "furnished": true,
+    "mamad": null,
+    "agent": false,
+    "image_url": null,
+    "listing_url": "https://www.facebook.com/marketplace/item/1829964621768232",
+    "first_seen": "2026-09-15T19:05:26.943428+00:00",
+    "last_seen": "2026-09-15T19:05:26.943428+00:00"
+  },
+  {
+    "id": "thefinder_241975",
+    "source": "thefinder",
+    "title": null,
+    "address": "מונטיפיורי 17, תל אביב יפו",
+    "price": 5500,
+    "rooms": null,
+    "size_sqm": 30.0,
+    "neighborhood": "לב תל אביב",
+    "balcony": null,
+    "parking": null,
+    "furnished": true,
+    "mamad": null,
+    "agent": true,
+    "image_url": null,
+    "listing_url": "https://www.yad2.co.il/realestate/item/p6zbrzpm",
+    "first_seen": "2026-09-15T19:05:26.096369+00:00",
+    "last_seen": "2026-09-15T19:05:26.096369+00:00"
+  },
+  {
+    "id": "thefinder_242012",
+    "source": "thefinder",
+    "title": null,
+    "address": "כרם התימנים, תל אביב",
+    "price": 60000,
+    "rooms": null,
+    "size_sqm": 40.0,
+    "neighborhood": "כרם התימנים",
+    "balcony": null,
+    "parking": false,
+    "furnished": null,
+    "mamad": null,
+    "agent": true,
+    "image_url": null,
+    "listing_url": "https://www.facebook.com/groups/305724686290054/posts/3269404426588717/",
+    "first_seen": "2026-09-15T19:05:22.235981+00:00",
+    "last_seen": "2026-09-15T19:05:22.235981+00:00"
+  },
+  {
+    "id": "thefinder_242015",
+    "source": "thefinder",
+    "title": null,
+    "address": "צפון הישן של תל אביב, סמוך לדיזנגוף-ארלוזרוב",
+    "price": 70000,
+    "rooms": null,
+    "size_sqm": 0.0,
+    "neighborhood": "הצפון הישן",
+    "balcony": true,
+    "parking": null,
+    "furnished": true,
+    "mamad": null,
+    "agent": false,
+    "image_url": null,
+    "listing_url": "https://www.facebook.com/groups/973843555992078/posts/28553220087627720/",
+    "first_seen": "2026-09-15T19:05:21.392683+00:00",
+    "last_seen": "2026-09-15T19:05:21.392683+00:00"
+  },
+  {
+    "id": "thefinder_242016",
+    "source": "thefinder",
+    "title": null,
+    "address": "בן יהודה 256, תל אביב יפו",
+    "price": 7500,
+    "rooms": null,
+    "size_sqm": 70.0,
+    "neighborhood": "הצפון הישן",
+    "balcony": null,
+    "parking": null,
+    "furnished": true,
+    "mamad": null,
+    "agent": false,
+    "image_url": null,
+    "listing_url": "https://www.yad2.co.il/realestate/item/0gp9ajeh",
+    "first_seen": "2026-09-15T19:05:20.533710+00:00",
+    "last_seen": "2026-09-15T19:05:20.533710+00:00"
+  },
+  {
+    "id": "thefinder_242031",
+    "source": "thefinder",
+    "title": null,
+    "address": "פרופסור שור, צפון הישן, תל אביב",
+    "price": 82000,
+    "rooms": null,
+    "size_sqm": 85.0,
+    "neighborhood": "הצפון הישן",
+    "balcony": null,
+    "parking": null,
+    "furnished": null,
+    "mamad": null,
+    "agent": true,
+    "image_url": null,
+    "listing_url": "https://www.facebook.com/groups/131288860307566/posts/27269133889429696/",
+    "first_seen": "2026-09-15T19:05:19.711690+00:00",
+    "last_seen": "2026-09-15T19:05:19.711690+00:00"
+  },
+  {
+    "id": "thefinder_242032",
+    "source": "thefinder",
+    "title": null,
+    "address": "בן יהודה ליד נורדאו, תל אביב",
+    "price": 70000,
+    "rooms": null,
+    "size_sqm": 55.0,
+    "neighborhood": "הצפון הישן",
+    "balcony": null,
+    "parking": null,
+    "furnished": false,
+    "mamad": true,
+    "agent": true,
+    "image_url": null,
+    "listing_url": "https://www.facebook.com/groups/365588344194085/posts/2280202472732653/",
+    "first_seen": "2026-09-15T19:05:18.884906+00:00",
+    "last_seen": "2026-09-15T19:05:18.884906+00:00"
+  },
+  {
+    "id": "thefinder_242042",
+    "source": "thefinder",
+    "title": null,
+    "address": "רחוב שינקין, תל אביב",
+    "price": 59500,
+    "rooms": null,
+    "size_sqm": 0.0,
+    "neighborhood": "לב תל אביב",
+    "balcony": null,
+    "parking": null,
+    "furnished": null,
+    "mamad": null,
+    "agent": true,
+    "image_url": null,
+    "listing_url": "https://www.facebook.com/groups/563881507140230/posts/3193415694186785/",
+    "first_seen": "2026-09-15T19:05:17.993086+00:00",
+    "last_seen": "2026-09-15T19:05:17.993086+00:00"
+  },
+  {
     "id": "thefinder_241374",
     "source": "thefinder",
     "title": null,
@@ -16,7 +472,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/fo4m2rqq",
     "first_seen": "2026-09-15T10:43:36.226671+00:00",
-    "last_seen": "2026-09-15T10:43:36.226671+00:00"
+    "last_seen": "2026-09-15T19:05:47.107343+00:00"
   },
   {
     "id": "thefinder_241377",
@@ -35,7 +491,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/quttlxw2",
     "first_seen": "2026-09-15T10:43:35.391090+00:00",
-    "last_seen": "2026-09-15T10:43:35.391090+00:00"
+    "last_seen": "2026-09-15T19:05:47.106863+00:00"
   },
   {
     "id": "thefinder_241420",
@@ -54,7 +510,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/w9k5le4s",
     "first_seen": "2026-09-15T10:43:34.310021+00:00",
-    "last_seen": "2026-09-15T10:43:34.310021+00:00"
+    "last_seen": "2026-09-15T19:05:47.106390+00:00"
   },
   {
     "id": "thefinder_241473",
@@ -73,7 +529,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/7639zibv",
     "first_seen": "2026-09-15T10:43:33.469212+00:00",
-    "last_seen": "2026-09-15T10:43:33.469212+00:00"
+    "last_seen": "2026-09-15T19:05:47.105822+00:00"
   },
   {
     "id": "thefinder_241474",
@@ -92,7 +548,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/x40j2s03",
     "first_seen": "2026-09-15T10:43:32.640097+00:00",
-    "last_seen": "2026-09-15T10:43:32.640097+00:00"
+    "last_seen": "2026-09-15T19:05:47.105374+00:00"
   },
   {
     "id": "thefinder_241477",
@@ -111,7 +567,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/b6ym1wyu",
     "first_seen": "2026-09-15T10:43:28.692459+00:00",
-    "last_seen": "2026-09-15T10:43:28.692459+00:00"
+    "last_seen": "2026-09-15T19:05:47.104949+00:00"
   },
   {
     "id": "thefinder_241493",
@@ -130,7 +586,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/nu8lq7ha",
     "first_seen": "2026-09-15T10:43:27.794322+00:00",
-    "last_seen": "2026-09-15T10:43:27.794322+00:00"
+    "last_seen": "2026-09-15T19:05:47.104365+00:00"
   },
   {
     "id": "thefinder_241497",
@@ -149,7 +605,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/q13dkwa1",
     "first_seen": "2026-09-15T10:43:26.918599+00:00",
-    "last_seen": "2026-09-15T10:43:26.918599+00:00"
+    "last_seen": "2026-09-15T19:05:47.103936+00:00"
   },
   {
     "id": "thefinder_241516",
@@ -168,7 +624,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/42v8u5f5",
     "first_seen": "2026-09-15T10:43:26.070801+00:00",
-    "last_seen": "2026-09-15T10:43:26.070801+00:00"
+    "last_seen": "2026-09-15T19:05:47.103482+00:00"
   },
   {
     "id": "thefinder_241531",
@@ -187,7 +643,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/TelAvivApartments/posts/29515248581398878/",
     "first_seen": "2026-09-15T10:43:25.217682+00:00",
-    "last_seen": "2026-09-15T10:43:25.217682+00:00"
+    "last_seen": "2026-09-15T19:05:47.102993+00:00"
   },
   {
     "id": "thefinder_241634",
@@ -206,7 +662,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/fz2snzb9",
     "first_seen": "2026-09-15T10:43:21.364639+00:00",
-    "last_seen": "2026-09-15T10:43:21.364639+00:00"
+    "last_seen": "2026-09-15T19:05:47.102513+00:00"
   },
   {
     "id": "thefinder_241639",
@@ -225,7 +681,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/telavivrentals/posts/28274778332176766/",
     "first_seen": "2026-09-15T10:43:20.531095+00:00",
-    "last_seen": "2026-09-15T10:43:20.531095+00:00"
+    "last_seen": "2026-09-15T19:05:47.101985+00:00"
   },
   {
     "id": "thefinder_241641",
@@ -244,7 +700,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/184920528370332/posts/3133625283499827/",
     "first_seen": "2026-09-15T10:43:19.679515+00:00",
-    "last_seen": "2026-09-15T10:43:19.679515+00:00"
+    "last_seen": "2026-09-15T19:05:47.101520+00:00"
   },
   {
     "id": "thefinder_241650",
@@ -263,7 +719,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/cxnfbpy3",
     "first_seen": "2026-09-15T10:43:18.833549+00:00",
-    "last_seen": "2026-09-15T10:43:18.833549+00:00"
+    "last_seen": "2026-09-15T19:05:47.101012+00:00"
   },
   {
     "id": "thefinder_241652",
@@ -282,7 +738,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/wsrlz9bi",
     "first_seen": "2026-09-15T10:43:17.995791+00:00",
-    "last_seen": "2026-09-15T10:43:17.995791+00:00"
+    "last_seen": "2026-09-15T19:05:47.100288+00:00"
   },
   {
     "id": "thefinder_241681",
@@ -301,7 +757,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/marketplace/item/1341060704769306",
     "first_seen": "2026-09-15T10:43:17.085314+00:00",
-    "last_seen": "2026-09-15T10:43:17.085314+00:00"
+    "last_seen": "2026-09-15T19:05:47.099308+00:00"
   },
   {
     "id": "thefinder_241276",
@@ -320,7 +776,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/TelAvivApartments/posts/29506176075639462/",
     "first_seen": "2026-09-14T20:45:48.918249+00:00",
-    "last_seen": "2026-09-15T10:43:40.121040+00:00"
+    "last_seen": "2026-09-15T19:05:47.108873+00:00"
   },
   {
     "id": "thefinder_241282",
@@ -339,7 +795,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/8ukr2ge9",
     "first_seen": "2026-09-14T20:45:47.855243+00:00",
-    "last_seen": "2026-09-15T10:43:40.120621+00:00"
+    "last_seen": "2026-09-15T19:05:47.108316+00:00"
   },
   {
     "id": "thefinder_241322",
@@ -358,7 +814,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/44gy1ng0",
     "first_seen": "2026-09-14T20:45:46.862049+00:00",
-    "last_seen": "2026-09-15T10:43:40.119450+00:00"
+    "last_seen": "2026-09-15T19:05:47.107831+00:00"
   },
   {
     "id": "thefinder_241033",
@@ -377,7 +833,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/f0khxqtq",
     "first_seen": "2026-09-14T16:59:15.971633+00:00",
-    "last_seen": "2026-09-15T10:43:40.126264+00:00"
+    "last_seen": "2026-09-15T19:05:47.116715+00:00"
   },
   {
     "id": "thefinder_241045",
@@ -396,7 +852,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/TelAvivApartments/posts/29502522092671527/",
     "first_seen": "2026-09-14T16:59:15.003492+00:00",
-    "last_seen": "2026-09-15T10:43:40.125937+00:00"
+    "last_seen": "2026-09-15T19:05:47.116244+00:00"
   },
   {
     "id": "thefinder_241050",
@@ -415,7 +871,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/marketplace/item/1676122360532013",
     "first_seen": "2026-09-14T16:59:13.966349+00:00",
-    "last_seen": "2026-09-15T10:43:40.125538+00:00"
+    "last_seen": "2026-09-15T19:05:47.115770+00:00"
   },
   {
     "id": "thefinder_241076",
@@ -434,7 +890,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/TelAvivApartments/posts/29502780665979003/",
     "first_seen": "2026-09-14T16:59:12.996325+00:00",
-    "last_seen": "2026-09-15T10:43:40.125200+00:00"
+    "last_seen": "2026-09-15T19:05:47.115256+00:00"
   },
   {
     "id": "thefinder_241079",
@@ -453,7 +909,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/295395253832427/posts/28673133755631864/",
     "first_seen": "2026-09-14T16:59:08.989845+00:00",
-    "last_seen": "2026-09-15T10:43:40.124818+00:00"
+    "last_seen": "2026-09-15T19:05:47.114714+00:00"
   },
   {
     "id": "thefinder_241105",
@@ -472,7 +928,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/marketplace/item/4440118059533721",
     "first_seen": "2026-09-14T16:59:08.018015+00:00",
-    "last_seen": "2026-09-15T10:43:40.124362+00:00"
+    "last_seen": "2026-09-15T19:05:47.113960+00:00"
   },
   {
     "id": "thefinder_241138",
@@ -491,7 +947,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/457465901082882/posts/3643544929141614/",
     "first_seen": "2026-09-14T16:59:07.068756+00:00",
-    "last_seen": "2026-09-15T10:43:40.124008+00:00"
+    "last_seen": "2026-09-15T19:05:47.113286+00:00"
   },
   {
     "id": "thefinder_241147",
@@ -510,7 +966,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/telavivrentals/posts/28262212913433308/",
     "first_seen": "2026-09-14T16:59:06.058402+00:00",
-    "last_seen": "2026-09-15T10:43:40.123666+00:00"
+    "last_seen": "2026-09-15T19:05:47.112857+00:00"
   },
   {
     "id": "thefinder_241150",
@@ -529,7 +985,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/marketplace/item/1058894030088031",
     "first_seen": "2026-09-14T16:59:04.991511+00:00",
-    "last_seen": "2026-09-15T10:43:40.123353+00:00"
+    "last_seen": "2026-09-15T19:05:47.112184+00:00"
   },
   {
     "id": "thefinder_241206",
@@ -548,7 +1004,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/6nkoci19",
     "first_seen": "2026-09-14T16:59:04.006715+00:00",
-    "last_seen": "2026-09-15T10:43:40.123047+00:00"
+    "last_seen": "2026-09-15T19:05:47.111694+00:00"
   },
   {
     "id": "thefinder_241221",
@@ -567,7 +1023,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/305724686290054/posts/3268158503379976/",
     "first_seen": "2026-09-14T16:59:02.970192+00:00",
-    "last_seen": "2026-09-15T10:43:40.122747+00:00"
+    "last_seen": "2026-09-15T19:05:47.111252+00:00"
   },
   {
     "id": "thefinder_241225",
@@ -586,7 +1042,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/y9g7ntme",
     "first_seen": "2026-09-14T16:59:01.986537+00:00",
-    "last_seen": "2026-09-15T10:43:40.122444+00:00"
+    "last_seen": "2026-09-15T19:05:47.110761+00:00"
   },
   {
     "id": "thefinder_241257",
@@ -605,7 +1061,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/563881507140230/posts/3192270407634647/",
     "first_seen": "2026-09-14T16:59:01.025049+00:00",
-    "last_seen": "2026-09-15T10:43:40.122126+00:00"
+    "last_seen": "2026-09-15T19:05:47.110313+00:00"
   },
   {
     "id": "thefinder_241263",
@@ -624,7 +1080,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/1749183625345821/posts/4440298366234320/",
     "first_seen": "2026-09-14T16:58:59.998315+00:00",
-    "last_seen": "2026-09-15T10:43:40.121798+00:00"
+    "last_seen": "2026-09-15T19:05:47.109838+00:00"
   },
   {
     "id": "thefinder_241271",
@@ -643,7 +1099,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/2541381749432833/posts/4559948890909432/",
     "first_seen": "2026-09-14T16:58:58.938115+00:00",
-    "last_seen": "2026-09-15T10:43:40.121425+00:00"
+    "last_seen": "2026-09-15T19:05:47.109344+00:00"
   },
   {
     "id": "thefinder_240649",
@@ -662,7 +1118,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/gpek2133",
     "first_seen": "2026-09-14T11:18:17.488895+00:00",
-    "last_seen": "2026-09-15T10:43:40.135394+00:00"
+    "last_seen": "2026-09-15T19:05:47.128006+00:00"
   },
   {
     "id": "thefinder_240677",
@@ -681,7 +1137,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/707867532704331/posts/3677496495741405/",
     "first_seen": "2026-09-14T11:18:16.557210+00:00",
-    "last_seen": "2026-09-15T10:43:40.134935+00:00"
+    "last_seen": "2026-09-15T19:05:47.127576+00:00"
   },
   {
     "id": "thefinder_240694",
@@ -700,7 +1156,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/ronkin/posts/3213035435557866/",
     "first_seen": "2026-09-14T11:18:15.609502+00:00",
-    "last_seen": "2026-09-15T10:43:40.134589+00:00"
+    "last_seen": "2026-09-15T19:05:47.127105+00:00"
   },
   {
     "id": "thefinder_240717",
@@ -719,7 +1175,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/1458853481020151/posts/4479399822298820/",
     "first_seen": "2026-09-14T11:18:14.669493+00:00",
-    "last_seen": "2026-09-15T10:43:40.134180+00:00"
+    "last_seen": "2026-09-15T19:05:47.126666+00:00"
   },
   {
     "id": "thefinder_240721",
@@ -738,7 +1194,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/tel.aviv.dirot/posts/27207194932289978/",
     "first_seen": "2026-09-14T11:18:13.727669+00:00",
-    "last_seen": "2026-09-15T10:43:40.133836+00:00"
+    "last_seen": "2026-09-15T19:05:47.126157+00:00"
   },
   {
     "id": "thefinder_240723",
@@ -757,7 +1213,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/telavivrentals/posts/28258309610490305/",
     "first_seen": "2026-09-14T11:18:12.800989+00:00",
-    "last_seen": "2026-09-15T10:43:40.133461+00:00"
+    "last_seen": "2026-09-15T19:05:47.125740+00:00"
   },
   {
     "id": "thefinder_240759",
@@ -776,7 +1232,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/305724686290054/posts/3267720770090416/",
     "first_seen": "2026-09-14T11:18:11.836093+00:00",
-    "last_seen": "2026-09-15T10:43:40.133042+00:00"
+    "last_seen": "2026-09-15T19:05:47.125222+00:00"
   },
   {
     "id": "thefinder_240841",
@@ -795,7 +1251,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/marketplace/item/4112359659064481",
     "first_seen": "2026-09-14T11:18:07.792643+00:00",
-    "last_seen": "2026-09-15T10:43:40.132686+00:00"
+    "last_seen": "2026-09-15T19:05:47.124740+00:00"
   },
   {
     "id": "thefinder_240844",
@@ -814,7 +1270,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/804eu1en",
     "first_seen": "2026-09-14T11:18:06.794691+00:00",
-    "last_seen": "2026-09-15T10:43:40.132290+00:00"
+    "last_seen": "2026-09-15T19:05:47.124278+00:00"
   },
   {
     "id": "thefinder_240855",
@@ -833,7 +1289,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/TelAvivApartments/posts/29500960552827681/",
     "first_seen": "2026-09-14T11:18:05.855067+00:00",
-    "last_seen": "2026-09-15T10:43:40.131886+00:00"
+    "last_seen": "2026-09-15T19:05:47.123841+00:00"
   },
   {
     "id": "thefinder_240857",
@@ -852,7 +1308,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/tel.aviv.dirot/posts/27208183035524501/",
     "first_seen": "2026-09-14T11:18:04.924447+00:00",
-    "last_seen": "2026-09-15T10:43:40.131462+00:00"
+    "last_seen": "2026-09-15T19:05:47.123319+00:00"
   },
   {
     "id": "thefinder_240862",
@@ -871,7 +1327,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/295395253832427/posts/28671418369136736/",
     "first_seen": "2026-09-14T11:18:04.022417+00:00",
-    "last_seen": "2026-09-15T10:43:40.131104+00:00"
+    "last_seen": "2026-09-15T19:05:47.122890+00:00"
   },
   {
     "id": "thefinder_240863",
@@ -890,7 +1346,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/293855971167565/posts/2154557478430729/",
     "first_seen": "2026-09-14T11:18:00.066381+00:00",
-    "last_seen": "2026-09-15T10:43:40.130716+00:00"
+    "last_seen": "2026-09-15T19:05:47.122347+00:00"
   },
   {
     "id": "thefinder_240864",
@@ -909,7 +1365,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/305724686290054/posts/3267811220081371/",
     "first_seen": "2026-09-14T11:17:59.129892+00:00",
-    "last_seen": "2026-09-15T10:43:40.130314+00:00"
+    "last_seen": "2026-09-15T19:05:47.121870+00:00"
   },
   {
     "id": "thefinder_240872",
@@ -928,7 +1384,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/zsg03m50",
     "first_seen": "2026-09-14T11:17:58.218343+00:00",
-    "last_seen": "2026-09-15T10:43:40.129944+00:00"
+    "last_seen": "2026-09-15T19:05:47.121416+00:00"
   },
   {
     "id": "thefinder_240875",
@@ -947,7 +1403,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/p6jskky0",
     "first_seen": "2026-09-14T11:17:57.169807+00:00",
-    "last_seen": "2026-09-15T10:43:40.129542+00:00"
+    "last_seen": "2026-09-15T19:05:47.120829+00:00"
   },
   {
     "id": "thefinder_240877",
@@ -966,7 +1422,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/59obz6lk",
     "first_seen": "2026-09-14T11:17:56.249447+00:00",
-    "last_seen": "2026-09-15T10:43:40.129202+00:00"
+    "last_seen": "2026-09-15T19:05:47.120385+00:00"
   },
   {
     "id": "thefinder_240888",
@@ -985,7 +1441,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/telavivrentals/posts/28259751203679479/",
     "first_seen": "2026-09-14T11:17:52.265870+00:00",
-    "last_seen": "2026-09-15T10:43:40.128866+00:00"
+    "last_seen": "2026-09-15T19:05:47.119913+00:00"
   },
   {
     "id": "thefinder_240893",
@@ -1004,7 +1460,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/912651298791978/posts/28567263496237386/",
     "first_seen": "2026-09-14T11:17:51.329681+00:00",
-    "last_seen": "2026-09-15T10:43:40.128475+00:00"
+    "last_seen": "2026-09-15T19:05:47.119299+00:00"
   },
   {
     "id": "thefinder_240919",
@@ -1023,7 +1479,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/gq4kkk5t",
     "first_seen": "2026-09-14T11:17:50.371966+00:00",
-    "last_seen": "2026-09-15T10:43:40.128107+00:00"
+    "last_seen": "2026-09-15T19:05:47.118811+00:00"
   },
   {
     "id": "thefinder_240921",
@@ -1042,7 +1498,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/ldrtojpl",
     "first_seen": "2026-09-14T11:17:49.403059+00:00",
-    "last_seen": "2026-09-15T10:43:40.127400+00:00"
+    "last_seen": "2026-09-15T19:05:47.118286+00:00"
   },
   {
     "id": "thefinder_240939",
@@ -1061,7 +1517,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/1432828703704444/posts/4608463772807572/",
     "first_seen": "2026-09-14T11:17:48.402258+00:00",
-    "last_seen": "2026-09-15T10:43:40.126911+00:00"
+    "last_seen": "2026-09-15T19:05:47.117835+00:00"
   },
   {
     "id": "thefinder_240944",
@@ -1080,7 +1536,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/1529488140613580/posts/4676495529246143/",
     "first_seen": "2026-09-14T11:17:47.330913+00:00",
-    "last_seen": "2026-09-15T10:43:40.126589+00:00"
+    "last_seen": "2026-09-15T19:05:47.117355+00:00"
   },
   {
     "id": "thefinder_240565",
@@ -1099,7 +1555,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/tlvapartment/posts/4017145025088206/",
     "first_seen": "2026-09-13T19:49:47.969380+00:00",
-    "last_seen": "2026-09-15T10:43:40.136561+00:00"
+    "last_seen": "2026-09-15T19:05:47.129727+00:00"
   },
   {
     "id": "thefinder_240604",
@@ -1118,7 +1574,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/287564448778602/posts/2213075916227436/",
     "first_seen": "2026-09-13T19:49:46.954133+00:00",
-    "last_seen": "2026-09-15T10:43:40.136195+00:00"
+    "last_seen": "2026-09-15T19:05:47.128995+00:00"
   },
   {
     "id": "thefinder_240606",
@@ -1137,7 +1593,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/marketplace/item/28212071118449031",
     "first_seen": "2026-09-13T19:49:45.749946+00:00",
-    "last_seen": "2026-09-15T10:43:40.135760+00:00"
+    "last_seen": "2026-09-15T19:05:47.128494+00:00"
   },
   {
     "id": "thefinder_240520",
@@ -1156,7 +1612,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/912651298791978/posts/28557256797238056/",
     "first_seen": "2026-09-13T17:40:58.964923+00:00",
-    "last_seen": "2026-09-15T10:43:40.138986+00:00"
+    "last_seen": "2026-09-15T19:05:47.132809+00:00"
   },
   {
     "id": "thefinder_240530",
@@ -1175,7 +1631,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/131288860307566/posts/27239563839053368/",
     "first_seen": "2026-09-13T17:40:58.066251+00:00",
-    "last_seen": "2026-09-15T10:43:40.138552+00:00"
+    "last_seen": "2026-09-15T19:05:47.132327+00:00"
   },
   {
     "id": "thefinder_240532",
@@ -1194,7 +1650,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/ronkin/posts/3212478398946903/",
     "first_seen": "2026-09-13T17:40:57.176786+00:00",
-    "last_seen": "2026-09-15T10:43:40.138121+00:00"
+    "last_seen": "2026-09-15T19:05:47.131753+00:00"
   },
   {
     "id": "thefinder_240545",
@@ -1213,7 +1669,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/marketplace/item/1587929996320243",
     "first_seen": "2026-09-13T17:40:56.266482+00:00",
-    "last_seen": "2026-09-15T10:43:40.137712+00:00"
+    "last_seen": "2026-09-15T19:05:47.131238+00:00"
   },
   {
     "id": "thefinder_240553",
@@ -1232,7 +1688,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/telavivrentals/posts/28251023294552270/",
     "first_seen": "2026-09-13T17:40:55.374666+00:00",
-    "last_seen": "2026-09-15T10:43:40.137327+00:00"
+    "last_seen": "2026-09-15T19:05:47.130737+00:00"
   },
   {
     "id": "thefinder_240554",
@@ -1251,7 +1707,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/365588344194085/posts/2278382086248025/",
     "first_seen": "2026-09-13T17:40:54.395766+00:00",
-    "last_seen": "2026-09-15T10:43:40.136968+00:00"
+    "last_seen": "2026-09-15T19:05:47.130198+00:00"
   },
   {
     "id": "thefinder_240453",
@@ -1270,7 +1726,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/telavivrentals/posts/28246933464961253/",
     "first_seen": "2026-09-13T14:43:14.737956+00:00",
-    "last_seen": "2026-09-15T10:43:40.140609+00:00"
+    "last_seen": "2026-09-15T19:05:47.134790+00:00"
   },
   {
     "id": "thefinder_240459",
@@ -1289,7 +1745,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/295395253832427/permalink/28659132973698609/",
     "first_seen": "2026-09-13T14:43:13.905001+00:00",
-    "last_seen": "2026-09-15T10:43:40.140179+00:00"
+    "last_seen": "2026-09-15T19:05:47.134290+00:00"
   },
   {
     "id": "thefinder_240485",
@@ -1308,7 +1764,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/2541381749432833/posts/4558729981031323/",
     "first_seen": "2026-09-13T14:43:13.073344+00:00",
-    "last_seen": "2026-09-15T10:43:40.139799+00:00"
+    "last_seen": "2026-09-15T19:05:47.133841+00:00"
   },
   {
     "id": "thefinder_240493",
@@ -1327,7 +1783,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/b1x13r79",
     "first_seen": "2026-09-13T14:43:12.156997+00:00",
-    "last_seen": "2026-09-15T10:43:40.139350+00:00"
+    "last_seen": "2026-09-15T19:05:47.133406+00:00"
   },
   {
     "id": "thefinder_240340",
@@ -1365,7 +1821,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/2541381749432833/permalink/4558360011068320/",
     "first_seen": "2026-09-13T10:49:57.474042+00:00",
-    "last_seen": "2026-09-15T10:43:40.142868+00:00"
+    "last_seen": "2026-09-15T19:05:47.137570+00:00"
   },
   {
     "id": "thefinder_240373",
@@ -1384,7 +1840,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/telavivrentals/posts/28244488185205781/",
     "first_seen": "2026-09-13T10:49:56.558969+00:00",
-    "last_seen": "2026-09-15T10:43:40.142508+00:00"
+    "last_seen": "2026-09-15T19:05:47.137138+00:00"
   },
   {
     "id": "thefinder_240416",
@@ -1403,7 +1859,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/marketplace/item/1100270735669212",
     "first_seen": "2026-09-13T10:49:55.651533+00:00",
-    "last_seen": "2026-09-15T10:43:40.142126+00:00"
+    "last_seen": "2026-09-15T19:05:47.136622+00:00"
   },
   {
     "id": "thefinder_240430",
@@ -1422,7 +1878,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/marketplace/item/1073478365596673",
     "first_seen": "2026-09-13T10:49:54.748365+00:00",
-    "last_seen": "2026-09-15T10:43:40.141778+00:00"
+    "last_seen": "2026-09-15T19:05:47.136195+00:00"
   },
   {
     "id": "thefinder_240438",
@@ -1441,7 +1897,7 @@
     "image_url": null,
     "listing_url": "https://www.yad2.co.il/realestate/item/ekbb9r0b",
     "first_seen": "2026-09-13T10:49:53.857187+00:00",
-    "last_seen": "2026-09-15T10:43:40.141377+00:00"
+    "last_seen": "2026-09-15T19:05:47.135737+00:00"
   },
   {
     "id": "thefinder_240449",
@@ -1460,7 +1916,7 @@
     "image_url": null,
     "listing_url": "https://www.facebook.com/groups/457465901082882/posts/3642284732600967/",
     "first_seen": "2026-09-13T10:49:52.855989+00:00",
-    "last_seen": "2026-09-15T10:43:40.141030+00:00"
+    "last_seen": "2026-09-15T19:05:47.135224+00:00"
   },
   {
     "id": "thefinder_240292",
@@ -19114,25 +19570,6 @@
     "last_seen": "2026-08-16T20:58:26.824551+00:00"
   },
   {
-    "id": "thefinder_223413",
-    "source": "thefinder",
-    "title": null,
-    "address": "עין חרוד 3, תל אביב יפו",
-    "price": 8000,
-    "rooms": null,
-    "size_sqm": 70.0,
-    "neighborhood": "הצפון הישן",
-    "balcony": true,
-    "parking": null,
-    "furnished": null,
-    "mamad": null,
-    "agent": true,
-    "image_url": null,
-    "listing_url": "https://www.yad2.co.il/realestate/item/9a9grm7v",
-    "first_seen": "2026-08-13T12:11:38.409571+00:00",
-    "last_seen": "2026-08-16T18:18:13.974153+00:00"
-  },
-  {
     "id": "thefinder_223417",
     "source": "thefinder",
     "title": null,
@@ -19150,138 +19587,5 @@
     "listing_url": "https://www.facebook.com/marketplace/item/27989366837372873",
     "first_seen": "2026-08-13T12:11:37.386023+00:00",
     "last_seen": "2026-08-16T20:58:26.826080+00:00"
-  },
-  {
-    "id": "thefinder_223360",
-    "source": "thefinder",
-    "title": null,
-    "address": "הירקון 168, תל אביב יפו",
-    "price": 6000,
-    "rooms": null,
-    "size_sqm": 35.0,
-    "neighborhood": "הצפון הישן",
-    "balcony": null,
-    "parking": null,
-    "furnished": true,
-    "mamad": null,
-    "agent": false,
-    "image_url": null,
-    "listing_url": "https://www.yad2.co.il/realestate/item/27h6rouz",
-    "first_seen": "2026-08-13T11:30:55.880499+00:00",
-    "last_seen": "2026-08-16T17:01:43.555539+00:00"
-  },
-  {
-    "id": "thefinder_223379",
-    "source": "thefinder",
-    "title": null,
-    "address": "קלישר 1",
-    "price": 65000,
-    "rooms": null,
-    "size_sqm": 0.0,
-    "neighborhood": "לב תל אביב",
-    "balcony": true,
-    "parking": null,
-    "furnished": null,
-    "mamad": null,
-    "agent": false,
-    "image_url": null,
-    "listing_url": "https://www.facebook.com/groups/457465901082882/posts/3607150656114375/",
-    "first_seen": "2026-08-13T11:30:55.027690+00:00",
-    "last_seen": "2026-08-16T17:56:15.312029+00:00"
-  },
-  {
-    "id": "thefinder_223314",
-    "source": "thefinder",
-    "title": null,
-    "address": "הזוהר 20, תל אביב יפו",
-    "price": 7500,
-    "rooms": null,
-    "size_sqm": 80.0,
-    "neighborhood": "בבלי",
-    "balcony": null,
-    "parking": null,
-    "furnished": null,
-    "mamad": null,
-    "agent": true,
-    "image_url": null,
-    "listing_url": "https://www.yad2.co.il/realestate/item/yb9xogai",
-    "first_seen": "2026-08-13T10:45:33.747828+00:00",
-    "last_seen": "2026-08-16T17:01:43.556553+00:00"
-  },
-  {
-    "id": "thefinder_223326",
-    "source": "thefinder",
-    "title": null,
-    "address": "בוגרשוב 91, תל אביב",
-    "price": 75000,
-    "rooms": null,
-    "size_sqm": 0.0,
-    "neighborhood": "הצפון הישן",
-    "balcony": null,
-    "parking": null,
-    "furnished": null,
-    "mamad": null,
-    "agent": null,
-    "image_url": null,
-    "listing_url": "https://www.facebook.com/groups/912651298791978/posts/28152185721078501/",
-    "first_seen": "2026-08-13T10:45:32.794524+00:00",
-    "last_seen": "2026-08-16T17:01:43.556096+00:00"
-  },
-  {
-    "id": "thefinder_223240",
-    "source": "thefinder",
-    "title": null,
-    "address": "אהרונסון, כרם התימנים",
-    "price": 80000,
-    "rooms": null,
-    "size_sqm": 0.0,
-    "neighborhood": "כרם התימנים",
-    "balcony": null,
-    "parking": null,
-    "furnished": null,
-    "mamad": null,
-    "agent": true,
-    "image_url": null,
-    "listing_url": "https://www.facebook.com/groups/973843555992078/posts/28116365604646506/",
-    "first_seen": "2026-08-13T09:46:27.562873+00:00",
-    "last_seen": "2026-08-16T16:20:51.836701+00:00"
-  },
-  {
-    "id": "thefinder_223244",
-    "source": "thefinder",
-    "title": null,
-    "address": "רחוב דיזנגוף, סמוך לדיזנגוף סנטר וכיכר דיזנגוף, תל אביב",
-    "price": 73000,
-    "rooms": null,
-    "size_sqm": 38.0,
-    "neighborhood": "הצפון הישן",
-    "balcony": true,
-    "parking": true,
-    "furnished": true,
-    "mamad": true,
-    "agent": true,
-    "image_url": null,
-    "listing_url": "https://www.facebook.com/groups/telavivrentals/posts/27847000221621248/",
-    "first_seen": "2026-08-13T09:46:26.485787+00:00",
-    "last_seen": "2026-08-16T16:20:51.835798+00:00"
-  },
-  {
-    "id": "thefinder_223229",
-    "source": "thefinder",
-    "title": null,
-    "address": "רחוב הירדן, תל אביב",
-    "price": 85000,
-    "rooms": null,
-    "size_sqm": 67.0,
-    "neighborhood": "לב תל אביב",
-    "balcony": null,
-    "parking": null,
-    "furnished": null,
-    "mamad": null,
-    "agent": false,
-    "image_url": null,
-    "listing_url": "https://www.facebook.com/groups/tlvapartment/posts/3979283798874329/",
-    "first_seen": "2026-08-13T08:43:31.815569+00:00",
-    "last_seen": "2026-08-16T15:21:56.741037+00:00"
   }
 ]
